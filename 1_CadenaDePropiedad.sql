@@ -1,6 +1,4 @@
 --Clase viernes 16/09
---1
---2
 
 DROP DATABASE IF EXISTS testDB;
 GO
