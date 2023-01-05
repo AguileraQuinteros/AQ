@@ -1,5 +1,5 @@
 --Clase viernes 16/09
-
+--1
 DROP DATABASE IF EXISTS testDB;
 GO
 CREATE DATABASE testDB;
