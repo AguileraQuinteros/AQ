@@ -1,5 +1,5 @@
 --Script pasado por oliver / clase 03/10
-
+--1
 --SCRIPT BACKUP BD
 
 USE master

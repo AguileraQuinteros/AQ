@@ -1,6 +1,6 @@
 USE [AdventureWorks2017]
 GO
-
+--1
 DECLARE Empleyee_Cursor CURSOR FOR
 	SELECT businessEntityID JobTitle
 	FROM AdventureWorks2017.HumanResources.Employee;
